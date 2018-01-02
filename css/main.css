@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a3ab13;
+  background: #fa45c9;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2999,5 +2999,5 @@ pre .javascript .function {
   transition: border-radius 2s;
 }
 .site-author-name {
-  font-size: 30px;
+  font-size: 16px;
 }
