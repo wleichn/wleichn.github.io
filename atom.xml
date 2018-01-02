@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>长不大的老小孩</title>
   
-  
+  <subtitle>不是贪玩，只是有些活不明白</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bloglei.wang/"/>
-  <updated>2018-01-02T16:35:20.980Z</updated>
+  <updated>2018-01-02T18:10:55.982Z</updated>
   <id>http://bloglei.wang/</id>
   
   <author>
@@ -17,68 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>newversion</title>
-    <link href="http://bloglei.wang/2018/01/03/newversion/"/>
-    <id>http://bloglei.wang/2018/01/03/newversion/</id>
-    <published>2018-01-02T16:34:36.000Z</published>
-    <updated>2018-01-02T16:35:20.980Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是这篇文章的正文</p>]]></content>
-    
-    <summary type="html">
-    
-      这是该篇文章的摘要
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>testBlog02</title>
-    <link href="http://bloglei.wang/2018/01/02/2018-01-02-testBlog02/"/>
-    <id>http://bloglei.wang/2018/01/02/2018-01-02-testBlog02/</id>
-    <published>2018-01-01T16:45:50.000Z</published>
-    <updated>2018-01-01T16:56:19.824Z</updated>
-    
-    <content type="html"><![CDATA[<figure class="highlight objc"><figcaption><span>HelloWorld</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#include <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"></span><br><span class="line">using namespace std;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> main()&#123;</span><br><span class="line">cout &lt;&lt; <span class="string">"Hello World!"</span> &lt;&lt;endl;</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;figure class=&quot;highlight objc&quot;&gt;&lt;figcaption&gt;&lt;span&gt;HelloWorld&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span
-      
-    
-    </summary>
-    
-    
-      <category term="life" scheme="http://bloglei.wang/tags/life/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第一个博客</title>
-    <link href="http://bloglei.wang/2017/12/31/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://bloglei.wang/2017/12/31/测试博客/</id>
+    <title>第一条博客</title>
+    <link href="http://bloglei.wang/2017/12/31/test/"/>
+    <id>http://bloglei.wang/2017/12/31/test/</id>
     <published>2017-12-30T17:48:46.000Z</published>
-    <updated>2018-01-01T16:34:43.910Z</updated>
+    <updated>2018-01-02T18:10:55.982Z</updated>
     
-    <content type="html"><![CDATA[<p> 这是一个测试文档；</p><p> 这是个人博客发布成功的第一篇，很多东西还不是很明白，加油！<br> 不要把这个世界让给你所讨厌的人！</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">#include &lt;iostream&gt;</span><br><span class="line">using namespace std;</span><br><span class="line"></span><br><span class="line">int main()&#123;</span><br><span class="line">  cout &lt;&lt; &quot;Hello,World！&quot; &lt;&lt; endl;</span><br><span class="line">  return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p> 这是一个测试文档；</p><a id="more"></a><p> 这是个人博客发布成功的第一篇，很多东西还不是很明白，加油！<br> 不要把这个世界让给你所讨厌的人！</p><figure class="highlight cpp"><figcaption><span>HelloWorld</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">include &lt;iostream&gt;</span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">  <span class="built_in">cout</span> &lt;&lt; <span class="string">"Hello World！"</span> &lt;&lt; <span class="built_in">endl</span>; </span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt; 这是一个测试文档；&lt;/p&gt;
-&lt;p&gt; 这是个人博客发布成功的第一篇，很多东西还不是很明白，加油！&lt;br&gt; 不要把这个世界让给你所讨厌的人！&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;
-      
+      &lt;p&gt; 这是一个测试文档；&lt;/p&gt;
     
     </summary>
     
     
-      <category term="life" scheme="http://bloglei.wang/tags/life/"/>
+      <category term="test" scheme="http://bloglei.wang/tags/test/"/>
     
   </entry>
   
