@@ -1,0 +1,2 @@
+Sitemap: http://blogwang.lei/sitemap.xml
+Sitemap: http://blogwang.leo/baidumap.xml

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[第一条博客]]></title>
+    <url>%2F2017%2F12%2F31%2Ftest%2F</url>
+    <content type="text"><![CDATA[这是一个测试文档； 这是个人博客发布成功的第一篇，很多东西还不是很明白，加油！ 不要把这个世界让给你所讨厌的人！ HelloWorld123456include &lt;iostream&gt;using namespace std;int main()&#123; cout &lt;&lt; "Hello World！" &lt;&lt; endl; return 0;&#125;]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+</search>
