@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bloglei.wang/2018/01/22/CodingTest/</loc>
+    
+    <lastmod>2018-01-21T17:12:22.507Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bloglei.wang/about/index.html</loc>
+    
+    <lastmod>2018-01-21T16:17:46.203Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://bloglei.wang/2018/01/19/GangHood/</loc>
     
     <lastmod>2018-01-19T15:42:55.950Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://bloglei.wang/2018/01/14/CMD-Copy/</loc>
     
     <lastmod>2018-01-14T18:07:34.950Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bloglei.wang/about/index.html</loc>
-    
-    <lastmod>2018-01-14T17:59:43.973Z</lastmod>
     
   </url>
   

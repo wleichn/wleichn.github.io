@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bloglei.wang/"/>
-  <updated>2018-01-19T15:42:55.950Z</updated>
+  <updated>2018-01-21T17:12:22.507Z</updated>
   <id>http://bloglei.wang/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>诺，你点的超大猴头</title>
+    <link href="http://bloglei.wang/2018/01/22/CodingTest/"/>
+    <id>http://bloglei.wang/2018/01/22/CodingTest/</id>
+    <published>2018-01-21T16:40:33.000Z</published>
+    <updated>2018-01-21T17:12:22.507Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2018/01/22/CodingTest/Coding.png" width="300px" height="300px"></p><p>我也很无奈啊；<br><a id="more"></a></p><p>折腾了一晚上，终于，加www前缀的地址访问的是coding的平台，不加www访问的就是github了；然后才发现coding自带一个跳转页面，需要在首页加一个猴头才能没有，嗯，所以机智的我决定发一篇博文不就可以了嘛，反正他自己说的只要在首页放哪都行，嘿嘿嘿；<br><img src="/2018/01/22/CodingTest/heihei.jpg" height="300px"></p><p>看说明似乎是自动检测？不管了，挂上来睡觉了；希望这个测试能通过，过了明天就发一个折腾的过程上来。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2018/01/22/CodingTest/Coding.png&quot; width=&quot;300px&quot; height=&quot;300px&quot;&gt;&lt;/p&gt;
+&lt;p&gt;我也很无奈啊；&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="test" scheme="http://bloglei.wang/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>你看，这就是江湖</title>
