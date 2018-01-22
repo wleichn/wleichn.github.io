@@ -5,9 +5,9 @@
   <subtitle>不是贪玩，只是有些活不明白</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.bloglei.wang/"/>
+  <link href="http://bloglei.wang/"/>
   <updated>2018-01-22T04:36:46.575Z</updated>
-  <id>http://www.bloglei.wang/</id>
+  <id>http://bloglei.wang/</id>
   
   <author>
     <name>Lei</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>诺，你点的超大猴头</title>
-    <link href="http://www.bloglei.wang/2018/01/22/CodingTest/"/>
-    <id>http://www.bloglei.wang/2018/01/22/CodingTest/</id>
+    <link href="http://bloglei.wang/2018/01/22/CodingTest/"/>
+    <id>http://bloglei.wang/2018/01/22/CodingTest/</id>
     <published>2018-01-21T16:40:33.000Z</published>
     <updated>2018-01-22T04:36:46.575Z</updated>
     
@@ -33,14 +33,14 @@
     </summary>
     
     
-      <category term="test" scheme="http://www.bloglei.wang/tags/test/"/>
+      <category term="test" scheme="http://bloglei.wang/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>你看，这就是江湖</title>
-    <link href="http://www.bloglei.wang/2018/01/19/GangHood/"/>
-    <id>http://www.bloglei.wang/2018/01/19/GangHood/</id>
+    <link href="http://bloglei.wang/2018/01/19/GangHood/"/>
+    <id>http://bloglei.wang/2018/01/19/GangHood/</id>
     <published>2018-01-19T14:44:25.000Z</published>
     <updated>2018-01-19T15:42:55.950Z</updated>
     
@@ -58,14 +58,14 @@
     </summary>
     
     
-      <category term="fiction" scheme="http://www.bloglei.wang/tags/fiction/"/>
+      <category term="fiction" scheme="http://bloglei.wang/tags/fiction/"/>
     
   </entry>
   
   <entry>
     <title>CMD-Copy</title>
-    <link href="http://www.bloglei.wang/2018/01/14/CMD-Copy/"/>
-    <id>http://www.bloglei.wang/2018/01/14/CMD-Copy/</id>
+    <link href="http://bloglei.wang/2018/01/14/CMD-Copy/"/>
+    <id>http://bloglei.wang/2018/01/14/CMD-Copy/</id>
     <published>2018-01-14T13:23:14.000Z</published>
     <updated>2018-01-14T18:07:34.950Z</updated>
     
@@ -78,14 +78,14 @@
     </summary>
     
     
-      <category term="CMD" scheme="http://www.bloglei.wang/tags/CMD/"/>
+      <category term="CMD" scheme="http://bloglei.wang/tags/CMD/"/>
     
   </entry>
   
   <entry>
     <title>第一条博客</title>
-    <link href="http://www.bloglei.wang/2017/12/31/test/"/>
-    <id>http://www.bloglei.wang/2017/12/31/test/</id>
+    <link href="http://bloglei.wang/2017/12/31/test/"/>
+    <id>http://bloglei.wang/2017/12/31/test/</id>
     <published>2017-12-30T17:48:46.000Z</published>
     <updated>2018-01-02T18:28:56.111Z</updated>
     
@@ -98,7 +98,7 @@
     </summary>
     
     
-      <category term="test" scheme="http://www.bloglei.wang/tags/test/"/>
+      <category term="test" scheme="http://bloglei.wang/tags/test/"/>
     
   </entry>
   
