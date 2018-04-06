@@ -4,14 +4,14 @@
 
     
   <url>
-    <loc>http://bloglei.wang/2018/04/01/life01/</loc>
-    <lastmod>2018-04-01T13:39:50.765Z</lastmod>
+    <loc>http://bloglei.wang/2018/01/19/GangHood/</loc>
+    <lastmod>2018-04-06T09:23:21.203Z</lastmod>
     <data>
         <display>
-        <title>时间酿了酒</title>
-        <pubTime>2018-04-01T08:12:03.000Z</pubTime>
+        <title>你看，这就是江湖</title>
+        <pubTime>2018-01-19T14:44:25.000Z</pubTime>
         
-        <tag>life</tag>
+        <tag>Fiction</tag>
          
          
            
@@ -21,14 +21,31 @@
 
     
   <url>
-    <loc>http://bloglei.wang/2018/01/19/GangHood/</loc>
-    <lastmod>2018-04-01T13:35:43.790Z</lastmod>
+    <loc>http://bloglei.wang/2018/04/01/life01/</loc>
+    <lastmod>2018-04-06T09:23:11.066Z</lastmod>
     <data>
         <display>
-        <title>你看，这就是江湖</title>
-        <pubTime>2018-01-19T14:44:25.000Z</pubTime>
+        <title>时间酿了酒</title>
+        <pubTime>2018-04-01T08:12:03.000Z</pubTime>
         
-        <tag>fiction</tag>
+        <tag>Life</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://bloglei.wang/2017/12/31/test/</loc>
+    <lastmod>2018-04-06T09:20:57.567Z</lastmod>
+    <data>
+        <display>
+        <title>第一条博客</title>
+        <pubTime>2017-12-30T17:48:46.000Z</pubTime>
+        
+        <tag>Tech</tag>
          
          
            
@@ -39,13 +56,13 @@
     
   <url>
     <loc>http://bloglei.wang/2018/01/14/CMD-Copy/</loc>
-    <lastmod>2018-04-01T12:57:01.996Z</lastmod>
+    <lastmod>2018-04-06T09:20:47.878Z</lastmod>
     <data>
         <display>
         <title>CMD-Copy</title>
         <pubTime>2018-01-14T13:23:14.000Z</pubTime>
         
-        <tag>CMD</tag>
+        <tag>Tech</tag>
          
          
            
@@ -53,18 +70,15 @@
     </data>
     </url>
 
-    
     
   <url>
-    <loc>http://bloglei.wang/2018/01/22/CodingTest/</loc>
-    <lastmod>2018-01-22T04:36:46.575Z</lastmod>
+    <loc>http://bloglei.wang/2018/04/02/GameAndLife/</loc>
+    <lastmod>2018-04-02T12:53:10.158Z</lastmod>
     <data>
         <display>
-        <title>诺，你点的超大猴头</title>
-        <pubTime>2018-01-21T16:40:33.000Z</pubTime>
+        <title>GameAndLife</title>
+        <pubTime>2018-04-02T12:53:10.000Z</pubTime>
         
-        <tag>test</tag>
-         
          
            
         </display>
@@ -73,22 +87,6 @@
 
     
     
-  <url>
-    <loc>http://bloglei.wang/2017/12/31/test/</loc>
-    <lastmod>2018-01-02T18:28:56.111Z</lastmod>
-    <data>
-        <display>
-        <title>第一条博客</title>
-        <pubTime>2017-12-30T17:48:46.000Z</pubTime>
-        
-        <tag>test</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
     
     
 </urlset>
