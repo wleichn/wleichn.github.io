@@ -5,13 +5,30 @@
     
   <url>
     <loc>http://bloglei.wang/2018/04/02/GameAndLife/</loc>
-    <lastmod>2018-07-05T15:55:39.910Z</lastmod>
+    <lastmod>2018-07-05T16:15:48.652Z</lastmod>
     <data>
         <display>
         <title>网吧</title>
         <pubTime>2018-04-02T12:53:10.000Z</pubTime>
         
-        <tag>life</tag>
+        <tag>Life</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://bloglei.wang/2018/04/01/life01/</loc>
+    <lastmod>2018-07-05T16:15:36.010Z</lastmod>
+    <data>
+        <display>
+        <title>时间酿了酒</title>
+        <pubTime>2018-04-01T08:12:03.000Z</pubTime>
+        
+        <tag>Life</tag>
          
          
            
@@ -46,23 +63,6 @@
         <pubTime>2018-01-19T14:44:25.000Z</pubTime>
         
         <tag>Fiction</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://bloglei.wang/2018/04/01/life01/</loc>
-    <lastmod>2018-04-06T09:23:11.066Z</lastmod>
-    <data>
-        <display>
-        <title>时间酿了酒</title>
-        <pubTime>2018-04-01T08:12:03.000Z</pubTime>
-        
-        <tag>Life</tag>
          
          
            
