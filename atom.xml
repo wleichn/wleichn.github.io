@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
+  <title>十二</title>
   
-  <subtitle>不是贪玩，只是有些活不明白</subtitle>
+  <subtitle>谨记我那荒唐而无聊的人生</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bloglei.wang/"/>
@@ -10,7 +10,7 @@
   <id>http://bloglei.wang/</id>
   
   <author>
-    <name>Lei</name>
+    <name>十二</name>
     
   </author>
   
