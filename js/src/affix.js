@@ -7,9 +7,21 @@
  * ======================================================================== */
 
 
-+function ($) {
++function ($) {//自执行匿名函数
   'use strict';
-
+  
+  // 添加自定义更改背景图片函数
+  var minN = 1;
+  var maxN = 5;
+  var getRandom = function(minnum, maxnum){
+      return parseInt(Math.random()*(maxnum-minnum+1)+minnum, 10);
+  }
+  var num  = getRandom(minN, maxN);
+  var currentImage = "/images/bg" + num + ".jpg";
+  document.body.style.backgroundImage="url("+currentImage+")";
+  
+  
+ 
   // AFFIX CLASS DEFINITION
   // ======================
 

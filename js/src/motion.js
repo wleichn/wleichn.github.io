@@ -1,6 +1,19 @@
 /* global NexT: true */
 
 $(document).ready(function () {
+  
+  
+      // //添加自定义更改背景图片函数,在此函数中背景比侧边栏后加载
+  // var minN = 1;
+  // var maxN = 4;
+  // var getRandom = function(minnum, maxnum){
+      // return parseInt(Math.random()*(maxnum-minnum+1)+minnum, 10);
+  // }
+  // var num  = getRandom(minN, maxN);
+  // var currentImage = "/images/bg" + num + ".jpg";
+  // document.body.style.backgroundImage="url("+currentImage+")";
+  
+  
   NexT.motion = {};
 
   var sidebarToggleLines = {
